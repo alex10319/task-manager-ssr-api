@@ -40,7 +40,7 @@ Todos los endpoints se exponen bajo `/api/tasks`.
 
 ```bash
 git clone <repo-url>
-cd task-manager-backend
+cd task-manager-ssr-api
 ```
 
 2. Instalar dependencias:
