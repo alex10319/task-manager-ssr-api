@@ -18,23 +18,6 @@ El objetivo es que el candidato use este backend para completar la integración 
 
 ---
 
-## Estructura del proyecto
-
-src/
-types/
-Task.ts # Tipado de Task
-modules/
-Tasks.Controller.ts # Lógica de endpoints de tareas
-Tasks.router.ts # Router de tareas
-router.ts # Router principal que importa Tasks.router.ts
-App.ts # App principal de Express
-server.ts # Entry point, levanta el servidor
-
-yaml
-Copiar código
-
----
-
 ## Endpoints disponibles
 
 Todos los endpoints se exponen bajo `/api/tasks`.
