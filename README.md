@@ -63,4 +63,4 @@ Este backend es solo para la prueba técnica, no está pensado para producción.
 
 No requiere base de datos; los cambios se mantienen solo mientras el servidor esté corriendo.
 
-El frontend debe apuntar a http://localhost:3001/api/tasks para hacer fetch de datos.
+El frontend debe apuntar a http://localhost:3000/api/tasks para hacer fetch de datos.
